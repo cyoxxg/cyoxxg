@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcksdud3037%2Fhit-counter&count_bg=%233EC6E1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  React, React-Nativ를 다루는 주니어 개발자입니다.
+ 
+<br/>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cksdud3037)](https://github.com/anuraghazra/github-readme-stats)
