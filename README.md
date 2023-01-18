@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**PakChanYoung/PakChanYoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cyoxxg/cyoxxg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -31,4 +31,4 @@ React, React-Native를 다루는 주니어 개발자입니다.
  
 <br/>
 
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PakChanYoung)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cyoxxg)](https://github.com/anuraghazra/github-readme-stats) -->
